@@ -1,26 +1,29 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import FriendCard from "./components/FriendCard";
+import Wrapper from "./components/Wrapper";
+import friends from "./friends.json";
+import "./App.css";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  state = {
+    friends
+  }
+
+  render() {
+    return (
+      <Wrapper>
+      <h1 className="title">Clicky Game</h1>
+        {this.state.friends.map(friend => (
+          <FriendCard
+            image={friend.image}
+            name={friend.name}
+            key={friend.id}
+            id={friend.id}
+          ></FriendCard>
+        ))}
+      </Wrapper>
+    );
+  }
 }
 
 export default App;
