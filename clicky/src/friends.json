@@ -1,77 +1,77 @@
 [
     {
         "id": 1,
-        "name": "Flying Duchman",
-        "image": "./public/images/flyingDuchman.jpeg"
+        "name": "Flying Dutchman",
+        "image": "/assets/images/flyingDutchman.jpeg"
     },
     {
         "id": 2,
         "name": "Fred",
-        "image": "./public/images/fred.jpeg"
+        "image": "/assets/images/fred.jpeg"
     },
     {
         "id": 3,
         "name": "Gary",
-        "image": "./public/images/gary.jpeg"
+        "image": "/assets/images/gary.jpeg"
     },
     {
         "id": 4,
         "name": "Karen",
-        "image": "./public/images/karen.jpeg"
+        "image": "/assets/images/karen.jpeg"
     },
     {
         "id": 5,
         "name": "Larry",
-        "image": "./public/images/larry.png"
+        "image": "/assets/images/larry.png"
     },
     {
         "id": 6,
         "name": "Mr. Krabs",
-        "image": "./public/images/mrKrabs.jpeg"
+        "image": "/assets/images/mrKrabs.jpeg"
     },
     {
         "id": 7,
         "name": "Mrs. Puff",
-        "image": "./public/images/mrsPuff.jpeg"
+        "image": "/assets/images/mrsPuff.jpeg"
     },
     {
         "id": 8,
         "name": "Old Man Jenkins",
-        "image": "./public/images/oldManJenkins.jpeg"
+        "image": "/assets/images/oldManJenkins.png"
     },
     {
         "id": 9,
         "name": "Patrick",
-        "image": "./public/images/patrick.png"
+        "image": "/assets/images/patrick.png"
     },
     {
         "id": 10,
         "name": "Pearl",
-        "image": "./public/images/pearl.png"
+        "image": "/assets/images/pearl.png"
     },
     {
         "id": 11,
         "name": "Plankton",
-        "image": "./public/images/plankton.jpeg"
+        "image": "/assets/images/plankton.jpeg"
     },
     {
         "id": 12,
         "name": "Sandy",
-        "image": "./public/images/sandyCheeks.jpeg"
+        "image": "/assets/images/sandyCheeks.jpeg"
     },
     {
         "id": 13,
         "name": "Spongebob",
-        "image": "./public/images/spongebob.jpeg"
+        "image": "/assets/images/spongebob.jpeg"
     },
     {
         "id": 14,
         "name": "Squidward",
-        "image": "./public/images/squidward.jpeg"
+        "image": "/assets/images/squidward.jpeg"
     },
     {
         "id": 15,
         "name": "Suzy",
-        "image": "./public/images/suzy.jpeg"
+        "image": "/assets/images/suzy.jpeg"
     }
 ]
