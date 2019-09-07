@@ -26,9 +26,7 @@ class App extends Component {
         arr[j] = temp;
     }
     return arr;    
-};
-
-  
+  };
 
   clickCount = (id) => {
     const friendsCopy = [...this.state.friends];
