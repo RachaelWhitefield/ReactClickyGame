@@ -11,7 +11,7 @@ Are you ready kids?!?  Click on a picture of Spongebob and friends to reach your
 
 ![Game Title](clicky/clicky/public/assets/gameTitle.gif)
 ---
-![Score](clicky/clicky/public/assets/scoreCard.gif)
+![Score](clicky/public/assets/scoreCard.gif)
 ---
 
 [Click here to see a video of the game]()
