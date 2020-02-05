@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "Flying Dutchman",
+        "image": "/assets/images/flyingDutchman.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Fred",
+        "image": "/assets/images/fred.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Gary",
+        "image": "/assets/images/gary.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Karen",
+        "image": "/assets/images/karen.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Larry",
+        "image": "/assets/images/larry.png"
+    },
+    {
+        "id": 6,
+        "name": "Mr. Krabs",
+        "image": "/assets/images/mrKrabs.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Mrs. Puff",
+        "image": "/assets/images/mrsPuff.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Old Man Jenkins",
+        "image": "/assets/images/oldManJenkins.png"
+    },
+    {
+        "id": 9,
+        "name": "Patrick",
+        "image": "/assets/images/patrick.png"
+    },
+    {
+        "id": 10,
+        "name": "Pearl",
+        "image": "/assets/images/pearl.png"
+    },
+    {
+        "id": 11,
+        "name": "Plankton",
+        "image": "/assets/images/plankton.jpeg"
+    },
+    {
+        "id": 12,
+        "name": "Sandy",
+        "image": "/assets/images/sandyCheeks.jpeg"
+    },
+    {
+        "id": 13,
+        "name": "Spongebob",
+        "image": "/assets/images/spongebob.jpeg"
+    },
+    {
+        "id": 14,
+        "name": "Squidward",
+        "image": "/assets/images/squidward.jpeg"
+    },
+    {
+        "id": 15,
+        "name": "Suzy",
+        "image": "/assets/images/suzy.jpeg"
+    }
+]
