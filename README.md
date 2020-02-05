@@ -17,7 +17,7 @@ Are you ready kids?!?  Click on a picture of Spongebob and friends to reach your
 ---
 ![Game Over](clicky/clicky/public/assets/gif/gameOver.gif)
 
-[Click here to see a video of the game]()
+[Click here to see a video of the game](https://drive.google.com/open?id=1dvlhbV4lAHgByHnmV4dsu4I6bNt_44dE)
 
 ### Technologies Used
 * React
