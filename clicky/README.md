@@ -9,9 +9,9 @@ Are you ready kids?!?  Click on a picture of Spongebob and friends to reach your
 
 ## See It In Action
 
-![Game Title](clicky/clicky/public/assets/gameTitle.gif)
+![Game Title](clicky/clicky/public/assets/gif/gameTitle.gif)
 ---
-![Score](clicky/public/assets/scoreCard.gif)
+![Score](clicky/public/assets/gif/scoreCard.gif)
 ---
 
 [Click here to see a video of the game]()
