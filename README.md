@@ -9,7 +9,7 @@ Are you ready kids?!?  Click on a picture of Spongebob and friends to reach your
 
 ## See It In Action
 
-![Game Title](clicky/clicky/public/assets/gameTitle.gif)
+![Game Title](clicky/clicky/clicky/public/assets/gameTitle.gif)
 ---
 ![Score](clicky/public/assets/scoreCard.gif)
 ---
