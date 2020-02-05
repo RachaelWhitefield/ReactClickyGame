@@ -7,6 +7,15 @@ Are you ready kids?!?  Click on a picture of Spongebob and friends to reach your
 
 [Click here to play the game!](https://intense-plateau-87709.herokuapp.com/)
 
+## See It In Action
+
+![Game Title](clicky/clicky/public/assets/gameTitle.gif)
+---
+![Score](clicky/public/assets/scoreCard.gif)
+---
+
+[Click here to see a video of the game]()
+
 ### Technologies Used
 * React
 * Javascript
